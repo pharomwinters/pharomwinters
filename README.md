@@ -1,4 +1,3 @@
-```markdown
 ## Adam Bick
 
 EHS professional turned self-taught developer. I build tools that solve problems I actually have.
@@ -13,5 +12,4 @@ Most of my work lives at the intersection of Go, Linux, and making things that d
 
 **What I work with:** Go, Python, Node.js, SQLite, Linux (Arch/Hyprland), and more LaTeX than any sane person should admit to.
 
-**Day job:** 18+ years in Environmental Health & Safety in automotive manufacturing — ISO 14001, ISO 45001, and the kind of compliance work where getting it wrong has real consequences.
-```
+**Day job:** 18+ years in Environmental Health & Safety in automotive manufacturing — ISO 14001, ISO 45001, and the kind of compliance work where getting it wrong has real consequences
